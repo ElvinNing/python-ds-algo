@@ -1,5 +1,10 @@
-*.pdf
-*.docx
-
+.ipynb_checkpoints
 .vscode
+
+# Ignore all files under folders
 Goodrich-master
+
+# Ignore file extensions
+*.csv
+*.tsv
+*.pdf
